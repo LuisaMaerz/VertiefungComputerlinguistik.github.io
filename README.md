@@ -28,8 +28,8 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 | Datum | Themen | Materialien |
 |-----------------------------|:--------------------------------:|:------:|
 | 15.10.19 | Einführung in den Kurs, Allgemeiner Überblick | |
-| 17.10.19 | Mathematische Grundlagen I <br/> Aussagen, Mengen und Mengenoperationen | [Skript Mathematische Grundlagen](mathematische_grundlagen.pdf)| 
-| 22.10.19 | WDH Aussagen, Mengen und Mengenoperationen | [Übungsblatt Mathematische Grundlagen](übungsblatt_mathe_grundlagen.pdf)  | 
+| 17.10.19 | Mathematische Grundlagen I <br/> Aussagen, Mengen und Mengenoperationen | [Skript Mathematische Grundlagen](MathGrundlagen.pdf)| 
+| 22.10.19 | WDH Aussagen, Mengen und Mengenoperationen | [Übungsblatt Mathematische Grundlagen](AufgabenMatheWdhlNeu.pdf)  | 
 | 24.10.19 | | | 
 | 29.10.19 | | | 
 | 31.10.19 | | | 
@@ -58,3 +58,5 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 | 30.01.20 | | | 
 | 04.02.20 | | | 
 | 06.02.20 | | | 
+
+---
