@@ -29,9 +29,9 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 |-----------------------------|:--------------------------------:|:------:|
 | 15.10.19 | Einführung in den Kurs, Allgemeiner Überblick | |
 | 17.10.19 | Mathematische Grundlagen I <br/> Aussagen, Mengen und Mengenoperationen | [Skript Mathematische Grundlagen](MathGrundlagen.pdf)| 
-| 22.10.19 | WDH Aussagen, Mengen und Mengenoperationen | [Übungsblatt Mathematische Grundlagen](AufgabenMatheWdhlNeu.pdf)  | 
-| 24.10.19 | | | 
-| 29.10.19 | | | 
+| 22.10.19 | WDH Aussagen, Mengen und Mengenoperationen <br/> Übungsaufgaben 1.1 - 1.5| [Übungsblatt Mathematische Grundlagen](AufgabenMatheWdhlNeu.pdf)  | 
+| 24.10.19 |  Mengenfamilien, Partitionen und vollständige Induktion | | 
+| 29.10.19 | WDH  Mengenfamilien, Partitionen und vollständige Induktion <br/> Übungsaufgaben 1.6 - 1.9 | | 
 | 31.10.19 | | | 
 | 05.11.19 | | | 
 | 07.11.19 | | |
