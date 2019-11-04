@@ -32,7 +32,7 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 | 22.10.19 | WDH Aussagen, Mengen und Mengenoperationen <br/> Übungsaufgaben 1.1 - 1.5| [Übungsblatt Mathematische Grundlagen](AufgabenMatheWdhlNeu.pdf)  | 
 | 24.10.19 |  Mengenfamilien, Partitionen und vollständige Induktion | | 
 | 29.10.19 | WDH  Mengenfamilien, Partitionen und vollständige Induktion <br/> Übungsaufgaben 1.6 - 1.9 | [Themen für die Vorträge](Vortragsthemen.pdf) | 
-| 31.10.19 | | | 
+| 31.10.19 | Tupel, kartesische Produkte, Relationen | | 
 | 05.11.19 | |[Zusatzaufgaben Induktion](ZusatzInduktion.pdf) | 
 | 07.11.19 | | |
 | 12.11.19 | | | 
