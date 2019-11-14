@@ -33,9 +33,9 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 | 24.10.19 |  Mengenfamilien, Partitionen und vollständige Induktion | | 
 | 29.10.19 | WDH  Mengenfamilien, Partitionen und vollständige Induktion <br/> Übungsaufgaben 1.6 - 1.9 | [Themen für die Vorträge](Vortragsthemen.pdf) | 
 | 31.10.19 | Tupel, kartesische Produkte, Relationen | | 
-| 05.11.19 | |[Zusatzaufgaben Induktion](ZusatzInduktion.pdf) | 
-| 07.11.19 | | |
-| 12.11.19 | | | 
+| 05.11.19 | WDH Relationen <br/> Aufgaben Induktion, Übungsaufgabe 1.10|[Zusatzaufgaben Induktion](ZusatzInduktion.pdf) | 
+| 07.11.19 | Eigenschaften von Relationen, Funktionen, Eigenschaften von Funktionen | |
+| 12.11.19 | WDH Relationen, Funktionen, Eigenschaften <br/> Übungsaufgaben 1.11 - 1.13| | 
 | 14.11.19 | | |
 | 19.11.19 | | | 
 | 21.11.19 | | |
