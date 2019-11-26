@@ -25,6 +25,11 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 
 ---
 
+#### Vortragsthemen online - bitte informieren Sie sich bis VOR den Weihnachtsferien über ihr Thema um ggf. Rückfragen zu stellen. 
+Literatur zu jedem Thema wurde in der Übungs genannt. Falls unbekannt schreiben Sie bitte eine Mail an Frau März.
+
+---
+
 | Datum | Themen | Materialien |
 |-----------------------------|:--------------------------------:|:------:|
 | 15.10.19 | Einführung in den Kurs, Allgemeiner Überblick | |
@@ -40,7 +45,7 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 | 19.11.19 | WDH Äquivalenzrelationen  <br/> Übungsaufgaben 1.14. - 1.15| | 
 | 21.11.19 | Hüllen, Ordnungsstrukturen, Verbände, Algebren| |
 | 26.11.19 |WDH Ordnungen, Verbände, Homomorphismen <br/> Übungsaufgaben 1.16 - 1.18 | [Vorträge Themenverteilung](Vorträge_final.pdf)| 
-| 28.11.19 | | | 
+| 28.11.19 | |[Skript Statistik](StatistikMasterWdhl.pdf) | 
 | 03.12.19 | | [Übungsblatt Statistik](AufgabenWdhlStatistik.pdf)| 
 | 05.12.19 | | |
 | 10.12.19 | | | 
