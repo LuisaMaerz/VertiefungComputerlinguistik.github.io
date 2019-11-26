@@ -36,12 +36,12 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 | 05.11.19 | WDH Relationen <br/> Aufgaben Induktion, Übungsaufgabe 1.10|[Zusatzaufgaben Induktion](ZusatzInduktion.pdf) | 
 | 07.11.19 | Eigenschaften von Relationen, Funktionen, Eigenschaften von Funktionen | |
 | 12.11.19 | WDH Relationen, Funktionen, Eigenschaften <br/> Übungsaufgaben 1.11 - 1.13| | 
-| 14.11.19 | | |
-| 19.11.19 | | | 
-| 21.11.19 | | |
-| 26.11.19 | | | 
+| 14.11.19 |Äquivalenzrelationen, Ordnungen | |
+| 19.11.19 | WDH Äquivalenzrelationen  <br/> Übungsaufgaben 1.14. - 1.15| | 
+| 21.11.19 | Hüllen, Ordnungsstrukturen, Verbände, Algebren| |
+| 26.11.19 |WDH Ordnungen, Verbände, Homomorphismen <br/> Übungsaufgaben 1.16 - 1.18 | [Vorträge Themenverteilung](Vorträge_final.pdf)| 
 | 28.11.19 | | | 
-| 03.12.19 | | | 
+| 03.12.19 | | [Übungsblatt Statistik](AufgabenWdhlStatistik.pdf)| 
 | 05.12.19 | | |
 | 10.12.19 | | | 
 | 12.12.19 | | | 
