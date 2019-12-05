@@ -29,6 +29,10 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 Literatur zu jedem Thema wurde in der Übungs genannt. Falls unbekannt schreiben Sie bitte eine Mail an Frau März.
 
 ---
+```diff
+- Die Übung am 10.12.19 beginnt um 13.45 s.t. und endet um 14.30!!
+``` 
+---
 
 | Datum | Themen | Materialien |
 |-----------------------------|:--------------------------------:|:------:|
@@ -45,8 +49,8 @@ Literatur zu jedem Thema wurde in der Übungs genannt. Falls unbekannt schreiben
 | 19.11.19 | WDH Äquivalenzrelationen  <br/> Übungsaufgaben 1.14. - 1.15| | 
 | 21.11.19 | Hüllen, Ordnungsstrukturen, Verbände, Algebren| |
 | 26.11.19 |WDH Ordnungen, Verbände, Homomorphismen <br/> Übungsaufgaben 1.16 - 1.18 | [Vorträge Themenverteilung](Vorträge_final.pdf)| 
-| 28.11.19 | |[Skript Statistik](StatistikMasterWdhl.pdf) | 
-| 03.12.19 | | [Übungsblatt Statistik](AufgabenWdhlStatistik.pdf)| 
+| 28.11.19 | Einführung Statistik|[Skript Statistik](StatistikMasterWdhl.pdf) | 
+| 03.12.19 | WDH Grundlagen <br/> Übungsaufgaben 1.1. + 1.2 | [Übungsblatt Statistik](AufgabenWdhlStatistik.pdf)| 
 | 05.12.19 | | |
 | 10.12.19 | | | 
 | 12.12.19 | | | 
