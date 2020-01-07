@@ -25,10 +25,6 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 
 ---
 
-#### Vortragsthemen online - bitte informieren Sie sich bis VOR den Weihnachtsferien über ihr Thema um ggf. Rückfragen zu stellen. 
-Literatur zu jedem Thema wurde in der Übungs genannt. Falls unbekannt schreiben Sie bitte eine Mail an Frau März.
-
----
 
 | Datum | Themen | Materialien |
 |-----------------------------|:--------------------------------:|:------:|
@@ -50,10 +46,10 @@ Literatur zu jedem Thema wurde in der Übungs genannt. Falls unbekannt schreiben
 | 05.12.19 | Diskrete Wahrscheinlichkeitsverteilungen | |
 | 10.12.19 | WDH Diskrete Wahrscheinlichkeitsverteilungen <br/> Übungsaufgaben 1.3. - 1.5| | 
 | 12.12.19 | Stetige Zufallsveriablen| | 
-| 17.12.19 | Besprechung Vorträge <br/> Überbllick Kontrollfragen| [Vorträge](Vorträge_how_to.pdf) <br/> [Kontrollfragen Mathe](KontrollfragenMathe.pdf) <br/> [Kontrollfragen Statistik](Kontrollfragen_Stat.pdf) | 
-| 19.12.19 | | | 
+| 17.12.19 | Besprechung Vorträge <br/> Überblick Kontrollfragen| [Vorträge](Vorträge_how_to.pdf) <br/> [Kontrollfragen Mathe](KontrollfragenMathe.pdf) <br/> [Kontrollfragen Statistik](Kontrollfragen_Stat.pdf) | 
+| 19.12.19 | Gemeinsame ZV| | 
 | 23.12.19 - 06.01.20 | Weihnachtsferien | | 
-| 07.01.20 | | | 
+| 07.01.20 | WDH gemeinsame ZV <br/> Übungsaufgabe 1.7 <br/> Vortrag Phonetik/ Phonologie | | 
 | 09.01.20 | | | 
 | 14.01.20 | | | 
 | 16.01.20 | | | 
