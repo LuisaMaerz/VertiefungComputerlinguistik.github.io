@@ -57,7 +57,7 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 | 23.01.20 | | | 
 | 28.01.20 | | | 
 | 30.01.20 | | | 
-| 04.02.20 | | | 
-| 06.02.20 | | | 
+| 04.02.20 | WDH Kursinhalt, Fragen zur Klausur | | 
+| 06.02.20 | KLAUSUR | | 
 
 ---
