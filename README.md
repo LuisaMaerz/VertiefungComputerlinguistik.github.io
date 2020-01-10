@@ -50,7 +50,7 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 | 19.12.19 | Gemeinsame ZV| | 
 | 23.12.19 - 06.01.20 | Weihnachtsferien | | 
 | 07.01.20 | WDH gemeinsame ZV <br/> Übungsaufgabe 1.7 <br/> Vortrag Phonetik/ Phonologie | [Slides zum Vortrag](präsentation_phonetik_phonolgie.pdf)| 
-| 09.01.20 | | | 
+| 09.01.20 |Vortrag Vektoren und Matritzen <br/> Vortrag Lineare Systeme | [Vektoren und Matritzen](VectorandMatrix.pdf)| 
 | 14.01.20 | | | 
 | 16.01.20 | | | 
 | 21.01.20 | | | 
