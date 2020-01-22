@@ -53,7 +53,7 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 | 09.01.20 |Vortrag Vektoren und Matritzen <br/> Vortrag Lineare Systeme | [Vektoren und Matritzen](VectorandMatrix.pdf) <br/> [Lineare Systeme](Lineare_Systeme_und_Least_Squares.pdf)| 
 | 14.01.20 | Vortrag Orthogonalität/ Orthonormalität <br/> Vortrag Chain Rule/ Backpropagation|[Orthogonalität/ Orthonormalität](ortho.pdf) <br/> [Chain Rule/ Backpropagation](ChainRule_Backpropagation.zip) | 
 | 16.01.20 |Vortrag SVD <br/> Vortrag Tensor Decomposition |[SVD](SVD.pdf) <br/> [Tensor Decomposition](TensorDecomposition.pdf) | 
-| 21.01.20 |Vortrag K-Means <br/> Vortrag Regularisierung  | | 
+| 21.01.20 |Vortrag K-Means <br/> Vortrag Regularisierung  | [Regularisierung](Regularisierung.pdf)| 
 | 23.01.20 | | | 
 | 28.01.20 | | | 
 | 30.01.20 | | | 
