@@ -55,7 +55,7 @@ maerz [at] cis [dot] uni [minus] muenchen [dot] de
 | 16.01.20 |Vortrag SVD <br/> Vortrag Tensor Decomposition |[SVD](SVD.pdf) <br/> [Tensor Decomposition](TensorDecomposition.pdf) | 
 | 21.01.20 |Vortrag K-Means <br/> Vortrag Regularisierung  | [K Means](k_means.pdf) <br/> [Regularisierung](Regularisierung.pdf)| 
 | 23.01.20 | Vortrag Latent Semantic Indexing <br/> Vortrag Page Rank |[LSI](LSI.pdf) <br/> [Page Rank](PageRank.pdf) | 
-| 28.01.20 | Vortrag HMM <br/> Vortrag Semantik  | | 
+| 28.01.20 | Vortrag HMM <br/> Vortrag Semantik  | [Semantik](Referat_Semantik.pdf) | 
 | 30.01.20 | Vortrag Morhologie/ Syntax <br/> Vortrag Pragmatik|[Morphologie/ Syntax](MorphoSyntax.pdf) <br/> [Pragmatik](Pragmatik.pdf) | 
 | 04.02.20 | WDH Kursinhalt, Fragen zur Klausur | | 
 | 06.02.20 | KLAUSUR | | 
